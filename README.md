@@ -3,4 +3,5 @@ Electrical lead on a class project converting the RE-RASSOR Lunar Robot's steppe
 
 RE-RASSOR (Research & Education – Regolith Advanced Surface Systems Operations Robot) is a scaled-down, 3D-printable educational platform modeled after NASA Kennedy Space Center's RASSOR excavator. The original RASSOR is a teleoperated lunar/Martian mining robot that uses counter-rotating bucket drums on opposing arms to excavate regolith (surface soil) with near-zero net reaction force, letting it dig effectively even in the Moon's low-gravity environment where a vehicle's own weight can't provide enough traction for traditional excavation methods. RE-RASSOR brings that same four-wheeled, drum-excavator design down to an affordable, open-source platform that university teams can build, modify, and experiment with, making it a common senior-design and class-project base for students working on drivetrain, control systems, and autonomy challenges.
 
-![Real Rassor](RE-RASSOR-
+![Real Rassor](real_rassor.jpg)
+
